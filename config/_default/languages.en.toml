@@ -1,0 +1,17 @@
+title = "Aron Kordt"
+
+[params]
+homepage.layout = 'profile'
+robots = true
+
+[params.author]
+name = "Aron Kordt"
+headline = "PhD Candidate in Astrophysics"
+bio = 'PhD Candidate in Astrophysics'
+image = 'aron_profile_square.jpg'
+links = [
+    { email = "mailto:aron.kordt@stud.uni-heidelberg.de" },
+    { github = "https://github.com/arkordt" },
+    { linkedin = "https://www.linkedin.com/in/aron-kordt/" },
+    { orcid = "https://orcid.org/0009-0001-3638-9957" },
+]

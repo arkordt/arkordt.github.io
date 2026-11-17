@@ -1,0 +1,36 @@
+[[main]]
+  name = "About"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  publications = "Publications"
+  pageRef = "/publications"
+  weight = 20
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/arkordt"
+  weight = 30
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "ORCID"
+  url = "https://orcid.org/0009-0001-3638-9957"
+  weight = 40
+  [main.params]
+    icon = "orcid"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/aron-kordt/"
+  weight = 50
+  [main.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"

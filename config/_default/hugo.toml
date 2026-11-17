@@ -1,0 +1,3 @@
+baseURL = 'https://arkordt.github.io/'
+theme = 'congo'
+locale = 'en'
